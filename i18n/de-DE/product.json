@@ -1,0 +1,34 @@
+{
+  "product": {
+    "addToCart": "In den Warenkorb",
+    "details": "Details",
+    "amount": "Menge",
+    "description": "Beschreibung",
+    "properties": "Eigenschaften",
+    "reviews": "Bewertungen",
+    "content": "Inhalt",
+    "choose": "Wähle eine",
+    "variantsFrom": "Varianten ab",
+    "previously": "zuvor",
+    "price": {
+      "label": "Preis",
+      "to": "Bis",
+      "from": "Ab"
+    },
+    "reviewsForm": {
+      "title": "Titel",
+      "review": "Ihre Bewertung",
+      "submit": "Einreichen",
+      "rating": "Ihre Bewertung"
+    },
+    "reviewNoComments": "Noch keine Kommentare.",
+    "reviewNotAccepted": "Ihre Bewertung wurde noch nicht genehmigt",
+    "reviewFeedback": "Unser Feedback",
+    "messages": {
+      "addedToWishlist": "{p} wurde zur Wunschliste hinzugefügt.",
+      "removedFromWishlist": "{p} wurde aus der Wunschliste entfernt.",
+      "addedToCart": "{p} wurde dem Warenkorb hinzugefügt.",
+      "reviewAdded": "Vielen Dank für Ihre Bewertung"
+    }
+  }
+}
